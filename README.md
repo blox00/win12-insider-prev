@@ -1,6 +1,6 @@
 # Windows 12 Insider Preview
 The insider preview version of the Windows 12 concept on PenguinMod.
-> I just want to say that this is not in any way affiliated with Microsoft. This is mainly just a concept.
+> :memo: **NOTE:** I just want to say that this is not in any way affiliated with Microsoft. This is mainly just a concept.
 
 # What is the Insider Preview?
 In Windows, the Insider Preview is a version of Windows that is updated each time a **BETA** feature
